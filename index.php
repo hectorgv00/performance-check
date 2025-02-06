@@ -64,7 +64,7 @@ $images = $loggedIn ? getImages($chartFolders[$selectedType]) : [];
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>jocarsa | Tomato</title>
+    <title>Performance check 🚀</title>
     <link rel="icon" href="./favicon.ico">
     <style>
         <?php include './styles/style.css'; ?>
